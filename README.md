@@ -6,3 +6,4 @@ hey@gmail.com
 psswd: 123456
 
 Site Live At https://junnonadmin.netlify.app/
+or https://nee-shar.github.io/Junnon-Admin/
